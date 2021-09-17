@@ -1,6 +1,0 @@
-﻿Segunda vez comittando algo!!!!
-
-git add prepara o arquivoi para ser adicionado ao controle de versão
-git add . Prepara diversos arquivos para serem adicionados ao controle de versão
-git commit cria versão do código/arquivos
-git push envia os comandos para o repositório 
